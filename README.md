@@ -12,11 +12,3 @@ Your audience can get engaged with your presentation via a chat feature, which y
 
 
 Slydv is written using JavaScript, react-redux, Sequelize, Postgres, and socket.io, among others. 
-
-*check us out at slydv.tech*
-
-__SlyDv Brought To You By:__
-* India Amos
-* Alice Chuang
-* Georgina Hoagland
-* Leigh Steiner
