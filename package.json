@@ -35,7 +35,7 @@
     "express": "^4.14.1",
     "express-session": "^1.15.1",
     "history": "^4.6.3",
-    "marked": "^0.3.6",
+    "marked": "^4.0.10",
     "mock-browser": "^0.92.14",
     "morgan": "^1.8.1",
     "passport": "^0.3.2",
