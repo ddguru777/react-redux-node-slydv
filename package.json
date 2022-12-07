@@ -32,7 +32,7 @@
     "brace": "^0.10.0",
     "connect-session-sequelize": "^4.1.0",
     "deque-pattern-library": "^2.2.0",
-    "express": "^4.14.1",
+    "express": "^4.17.3",
     "express-session": "^1.15.1",
     "history": "^4.6.3",
     "marked": "^0.3.6",
